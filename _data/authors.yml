@@ -1,20 +1,12 @@
-- name: Tae Soo Kim
-  affiliation: KAIST
-  website: https://taesookim.com
-  img: taesoo.jpeg
-- name: Yoonjoo Lee
-  affiliation: KAIST
-  website: https://yoonjoolee.com
-  img: yoonjoo.jpeg
-- name: Jamin Shin
-  affiliation: NAVER AI Lab
-  website: https://www.jayshin.xyz/
-  img: jamin.jpg
-- name: Young-Ho Kim
-  affiliation: NAVER AI Lab
-  website: http://younghokim.net/
-  img: youngho.jpg
-- name: Juho Kim
-  affiliation: KAIST
-  website: https://juhokim.com
-  img: juho.jpg
+- name: Sangho Suh
+  affiliation: University of Waterloo
+  website: https://sanghosuh.github.io/
+  img: sangho.jpg
+- name: Jian Zhao
+  affiliation: University of Waterloo
+  website: https://www.jeffjianzhao.com/
+  img: jian.png
+- name: Edith Law
+  affiliation: University of Waterloo
+  website: https://edithlaw.ca/
+  img: edith.jpeg

@@ -18,14 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: EvalLM
+title: CodeToon
 theme: minima
-description: "Interactive Evaluation of Large Language Model Prompts on User-Defined Criteria"
+description: "Story Ideation, Auto Comic Generation, and Structure Mapping for Code-Driven Storytelling"
 
 syscolor: "#555555"
 sysfont: Inter
-video: https://www.youtube-nocookie.com/embed/7hvTnhiCO7Y?si=6I9aqVnatM8VoaJd
-paper: https://arxiv.org/abs/2309.13633
+video: https://www.youtube.com/embed/VkC54ZNO_HU?si=0XFrZHAj6tHGzj5s
+paper: https://dl.acm.org/doi/10.1145/3526113.3545617
+demo: https://codetoon.uwaterloo.ca/
 
 plugins:
   - jekyll-feed
