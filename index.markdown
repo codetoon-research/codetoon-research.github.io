@@ -8,6 +8,7 @@ Recent work demonstrated how we can design and use coding strips, a form of comi
 
 ------
 
+## CodeToon
 CodeToon (<a href="https://codetoon.uwaterloo.ca/" target="_blank">https://codetoon.uwaterloo.ca/</a>) is a flexible authoring tool that allows users to automatically or manually generate comics from code.
 
 ## SCALABILITY
@@ -17,13 +18,21 @@ CodeToon scales to any code input, as it uses (Python) interpreter in the backen
 Automatically generated comic is designed to show code semantics and execution steps. As can be seen from the demo, it can help students in several ways, e.g,. teach how to trace execution steps.
 
 
-## Video Demo
-
 See <span class="sys-name">CodeToon</span> in action in this Video Demo.
 
 {% if site.video %}
 <div class="video-wrapper">
   <iframe src="{{site.video}}&color=white&rel=0&modestlogo=1" id="yt-video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+{% endif %}
+
+## Presentation
+
+See UIST'23 Presentation.
+
+{% if site.video %}
+<div class="video-wrapper">
+  <iframe src="{{site.talk}}&color=white&rel=0&modestlogo=1" id="yt-video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 {% endif %}
 

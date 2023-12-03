@@ -24,9 +24,10 @@ description: "Story Ideation, Auto Comic Generation, and Structure Mapping for C
 
 syscolor: "#555555"
 sysfont: Inter
-video: https://www.youtube.com/embed/VkC54ZNO_HU?si=0XFrZHAj6tHGzj5s
+video: https://www.youtube.com/embed/Q2R_cIohi8g?si=vW9JOJnxUeU8bbA2
+talk: https://www.youtube.com/embed/VkC54ZNO_HU?si=0XFrZHAj6tHGzj5s
 paper: https://dl.acm.org/doi/10.1145/3526113.3545617
-demo: https://codetoon.uwaterloo.ca/
+demo: https://codetoon.uwaterloo.ca/ 
 
 plugins:
   - jekyll-feed
