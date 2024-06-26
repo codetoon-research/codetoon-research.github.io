@@ -32,7 +32,8 @@ See UIST'23 Presentation.
 
 {% if site.video %}
 <div class="video-wrapper">
-  <iframe src="{{site.talk}}&color=white&rel=0&modestlogo=1" id="yt-video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <!-- <iframe src="{{site.talk}}&color=white&rel=0&modestlogo=1" id="yt-video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/VkC54ZNO_HU?si=Ad0H_UwrBv8SqfmR&amp;start=8770" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 {% endif %}
 
