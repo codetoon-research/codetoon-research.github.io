@@ -28,7 +28,7 @@ See <span class="sys-name">CodeToon</span> in action in this Video Demo.
 
 ## Presentation
 
-See UIST'23 Presentation.
+See UIST'22 Presentation.
 
 {% if site.video %}
 <div class="video-wrapper">
